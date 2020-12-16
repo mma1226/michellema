@@ -1,0 +1,33 @@
+body{color: black;
+	font-family: 'Special Elite', cursive;
+	font-size: 53px;
+	background: white; 
+
+}
+	
+img{display: block;
+  margin-left: auto;
+
+
+ 
+}
+
+.button {
+  border: none;
+  background-color: inherit;
+
+  font-size: 53px;
+  cursor: pointer;
+  font-family: 'Special Elite', cursive;
+
+  color: #FF4059;
+  text-decoration: none;
+}
+
+.button a {
+  text-decoration: none;
+  color: black;
+}
+
+.button:hover { text-decoration: underline;}
+
